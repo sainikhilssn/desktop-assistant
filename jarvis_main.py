@@ -125,34 +125,6 @@ if __name__ == "__main__":
     user = voiceAssistant(apikey)
     user.greet()
     user.process_query()
-
-
-
-
-
-
-        
-
-
-        
-
-
-
-
-        
-
-        
-
-
-
-
-
-
-
-
-
-        
-
     
         
 
